@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title:인공지능을 활용한 능동형 POS 시스템과 서비스 방법 특허 출원
+        title: 인공지능을 활용한 능동형 POS 시스템과 서비스 방법 특허 출원
         #link: github.com/sproogen
         # link_text: Project Website
         #additional_links:
